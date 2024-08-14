@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .color-display {
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+    margin-top: 10px;
+  }
+  
